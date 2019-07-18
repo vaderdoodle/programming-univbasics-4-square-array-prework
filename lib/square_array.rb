@@ -8,6 +8,6 @@ new_array = []
     counter += 1
   end
   
-  newarray
+  return newarray
   
 end
