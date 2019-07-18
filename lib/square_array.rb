@@ -4,7 +4,7 @@ counter = 0
 new_array = []
   
   while counter < array.length do
-    newarray.push(Math.sqrt(array[counter]))
+    newarray.push((array[counter]))
     counter += 1
   end
   
